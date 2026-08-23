@@ -1,0 +1,19 @@
+{
+  "name": "insta-card-shorts-generator",
+  "version": "1.0.0",
+  "description": "Generate a 7-card Instagram sketch-notes educational carousel and animated 9:16 Shorts video with BGM using Remotion & AI image generation.",
+  "author": "AI찬우쌤 (HONG CHAN WOO) & ACE EduTech",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "card-news",
+    "shorts",
+    "reels",
+    "remotion",
+    "sketch-notes",
+    "education"
+  ],
+  "skills": [
+    "./SKILL.md"
+  ]
+}

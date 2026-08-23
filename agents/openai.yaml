@@ -1,0 +1,6 @@
+interface:
+  display_name: "Insta Card and Shorts Generator"
+  short_description: "7-card sketch-notes carousel and 9:16 animated Shorts video"
+  default_prompt: "이 내용을 바탕으로 AI찬우쌤 스케치노트 스타일의 7장 인스타 카드뉴스와 BGM이 들어간 쇼츠 영상을 제작해줘."
+policy:
+  allow_implicit_invocation: true
