@@ -19,7 +19,7 @@
 
 Codex 채팅창에서 다음 명령어를 입력하면 자동으로 설치됩니다:
 
-GitHub [본인_GitHub_아이디]/insta-card-shorts-generator 스킬 설치해줘
+GitHub ARTHONG1/insta-card-shorts-generator 스킬 설치해줘
 
 ---
 
