@@ -50,3 +50,20 @@ Each card news project follows this 7-card storyline:
 - Place assets into a Remotion project or use the bundled rendering script.
 - Apply 3.5s per scene (total 24.5s), Ken Burns zoom, and spring animation.
 - Mix with upbeat background music (bgm.wav / bgm.mp3) and render to [topic]_shorts.mp4.
+---
+
+## 4. Operating Modes: Version 1 vs Version 2
+
+### ������ Version 1 (Default / Comprehensive)
+- Detailed sketch-notes with rich educational annotations, speech bubbles, and sub-cards.
+- Best for detailed reading, manuals, and deep-dive carousel guides.
+
+### ⚡ Version 2 (Minimal / High-Impact / High-Readability)
+- **When user says "버전2", "ver2", "글자 줄여서", "심플하게", "눈에 잘 들어오게"**:
+  1. **Text Reduction (60% cut)**: 1 bold headline + 1 punchy key phrase per card. Zero visual clutter.
+  2. **40%+ Negative Space**: Generous breathing room, bold and central character/object illustration.
+  3. **Auto 3-Format Video Suite**: Automatically render:
+     - ������ **9:16 Vertical Shorts** (1080x1920)
+     - ������ **16:9 Landscape YouTube** (1920x1080)
+     - ⏹️ **1:1 Square Feed Video** (1080x1080)
+     - All bundled with seamless 30s background music.
