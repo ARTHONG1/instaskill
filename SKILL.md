@@ -1,6 +1,6 @@
 ---
-name: insta-card-shorts-generator
-description: Generate a 7-card Instagram sketch-notes educational card news series and automatically render a 9:16 vertical animated Shorts/Reels video with BGM using Remotion & AI image generation. Use when user asks to create sketch-notes Instagram card news, educational carousel cards, or turn articles and YouTube videos into card news and shorts.
+name: instaskill
+description: instaskill - 인스타 카드뉴스 및 쇼츠 영상 자동 생성 스킬. Generate a 7-card Instagram sketch-notes educational card news series and automatically render a 9:16 vertical animated Shorts/Reels video with BGM using Remotion & AI image generation. Use when user asks to create sketch-notes Instagram card news, educational carousel cards, or turn articles and YouTube videos into card news and shorts.
 version: 1.0.0
 ---
 
